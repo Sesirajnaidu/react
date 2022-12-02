@@ -8,9 +8,9 @@ import JSX from './JSX'
 function App(){
   return(
     <section>
-      <JSX/>
-    {/*<StateExample/>    
-      <FuncProps carname="rolls royce" year="1995"/>
+    <StateExample/>    
+       {/*   <JSX/>
+       <FuncProps carname="rolls royce" year="1995"/>
       <DemoExample price="hello there this is the price today "/>
       <Events/> 
       
